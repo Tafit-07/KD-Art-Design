@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"6b5a74dc45f2d37c","type":"link","url":"https://gachiakuta-anime.com/en/","x":480,"y":-117,"width":880,"height":517,"color":"1"},
+		{"id":"c5b16b743cf8b51a","type":"text","text":"<a style=\"color: red; font-weight: bold; font-size: 2rem;\" href=\"https://gachiakuta-anime.com/en/\n\">Gachiakuta official website</a>\n","x":80,"y":-117,"width":350,"height":117,"color":"1"},
+		{"id":"17a4fa1012eb6dd5","type":"text","text":"<h1 style=\"font-size: 5rem;\">Inspiratie</h1>","x":-520,"y":-400,"width":421,"height":163},
+		{"id":"eccb9de31eb060f5","type":"file","file":"Inspiratie/Aizo.webp","x":-210,"y":142,"width":400,"height":225,"color":"1"},
+		{"id":"bf2d98aab98f0d75","type":"text","text":"<a style=\"color: red; font-weight: bold; font-size: 2rem;\" href=\"https://gachiakuta-anime.com/en/\n\">Jujutsu kaisen's nieuwe art style</a>\n","x":-659,"y":142,"width":350,"height":117,"color":"1"},
+		{"id":"e8e5c6a37ba2391f","type":"text","text":"<a style=\"color: blue; font-weight: bold; font-size: 2rem;\" href=\"[https://gachiakuta-anime.com/en/](https://onepiece.fandom.com/wiki/UUUUUS!)\n\">One Piece op 26 artstyle</a>\n","x":-1080,"y":-295,"width":350,"height":117,"color":"#1100ff"},
+		{"id":"57ecdccf7779c428","type":"text","text":"# Monotone","x":-349,"y":40,"width":250,"height":60,"color":"1"},
+		{"id":"ebb1a0d594610be9","type":"file","file":"Inspiratie/assu.webp","x":-1200,"y":-113,"width":400,"height":227,"color":"#2b00ff"},
+		{"id":"75b32057cee4e656","type":"link","url":"https://grids.obys.agency/","x":430,"y":-756,"width":924,"height":520},
+		{"id":"38c993108d70156c","type":"text","text":"<a style=\"color: white; font-weight: bold; font-size: 2rem;\" href=\"https://grids.obys.agency/\n\">GRIDS (Obys Agency)</a>\n","x":-99,"y":-576,"width":394,"height":80,"color":"#ffffff"}
+	],
+	"edges":[
+		{"id":"c0ed653292d690d6","fromNode":"c5b16b743cf8b51a","fromSide":"right","toNode":"6b5a74dc45f2d37c","toSide":"left"},
+		{"id":"aedaba33aa8240ae","fromNode":"17a4fa1012eb6dd5","fromSide":"right","toNode":"c5b16b743cf8b51a","toSide":"left"},
+		{"id":"8716666a6325c3f6","fromNode":"17a4fa1012eb6dd5","fromSide":"bottom","toNode":"bf2d98aab98f0d75","toSide":"top"},
+		{"id":"a3bdba94d60eb073","fromNode":"bf2d98aab98f0d75","fromSide":"right","toNode":"eccb9de31eb060f5","toSide":"left"},
+		{"id":"60941dfc9bbd6ea2","fromNode":"bf2d98aab98f0d75","fromSide":"right","toNode":"57ecdccf7779c428","toSide":"bottom"},
+		{"id":"e6093da21d3a33df","fromNode":"17a4fa1012eb6dd5","fromSide":"left","toNode":"e8e5c6a37ba2391f","toSide":"right"},
+		{"id":"45abf10d52a4e1b8","fromNode":"e8e5c6a37ba2391f","fromSide":"bottom","toNode":"ebb1a0d594610be9","toSide":"top"},
+		{"id":"bc90a3c32c861667","fromNode":"17a4fa1012eb6dd5","fromSide":"right","toNode":"38c993108d70156c","toSide":"bottom"},
+		{"id":"c0129e6fbce2289c","fromNode":"38c993108d70156c","fromSide":"right","toNode":"75b32057cee4e656","toSide":"left"}
+	]
+}
