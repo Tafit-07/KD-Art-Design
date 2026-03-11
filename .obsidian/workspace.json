@@ -6,7 +6,6 @@
       {
         "id": "c04219a5cc1a45e4",
         "type": "tabs",
-        "dimension": 74.80670103092784,
         "children": [
           {
             "id": "7273338b966c9894",
@@ -30,23 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "README"
-            }
-          }
-        ]
-      },
-      {
-        "id": "50e6d8f498fa497e",
-        "type": "tabs",
-        "dimension": 25.19329896907216,
-        "children": [
-          {
-            "id": "ad1c591bcb6968bf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -117,12 +99,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ad1c591bcb6968bf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "d9e8a8151d34b6b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inspiratie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Inspiratie"
+              "title": "Backlinks"
             }
           },
           {
@@ -141,12 +132,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inspiratie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Inspiratie"
+              "title": "Outgoing links"
             }
           },
           {
@@ -184,21 +174,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inspiratie.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Inspiratie"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 691.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,11 +199,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "7273338b966c9894",
+  "active": "ad1c591bcb6968bf",
   "lastOpenFiles": [
+    "README.md",
+    "Untitled.canvas",
     "README.md~",
     "Welcome to KD Art & Design.md",
-    "README.md",
     "Untitled.md",
     "Inspiratie/Inspiratie.canvas",
     "Inspiratie/assu.webp",
