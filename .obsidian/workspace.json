@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c04219a5cc1a45e4",
+        "id": "33e2367f90c8b2df",
         "type": "tabs",
         "children": [
           {
-            "id": "7273338b966c9894",
+            "id": "fe2e73a22d810012",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,15 +174,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "7b77f0c9c2eca66d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -196,10 +208,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad1c591bcb6968bf",
+  "active": "fe2e73a22d810012",
   "lastOpenFiles": [
     "README.md",
     "Untitled.canvas",
