@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63282425264ed37c",
+        "id": "e50dd3f43b23442b",
         "type": "tabs",
         "children": [
           {
-            "id": "9f54067b5e441b66",
+            "id": "eebf50f8d17a5f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -99,7 +99,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad1c591bcb6968bf",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -114,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -213,9 +214,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9f54067b5e441b66",
+  "active": "7b77f0c9c2eca66d",
   "lastOpenFiles": [
     "README.md",
+    "Inspiratie/frieren-1.webp",
+    "Inspiratie/frieren-4.webp",
+    "Inspiratie/frieren-3.webp",
+    "Inspiratie/frieren-2.webp",
     "Untitled.canvas",
     "README.md~",
     "Welcome to KD Art & Design.md",
