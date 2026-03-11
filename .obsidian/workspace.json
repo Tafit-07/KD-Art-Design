@@ -12,29 +12,24 @@
             "id": "7273338b966c9894",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Inspiratie/Inspiratie.canvas",
-                "viewState": {
-                  "x": -802.9895572655246,
-                  "y": -228.23798517306233,
-                  "zoom": -0.19999999999999996
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Inspiratie"
-            }
-          },
-          {
-            "id": "f34ab098c3d1020f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -218,11 +213,14 @@
   },
   "active": "7273338b966c9894",
   "lastOpenFiles": [
+    "README.md~",
+    "Welcome to KD Art & Design.md",
+    "README.md",
+    "Untitled.md",
+    "Inspiratie/Inspiratie.canvas",
     "Inspiratie/assu.webp",
     "Inspiratie/Aizo.webp",
     "Aizo.webp",
-    "Welcome to kd Art & Design.md",
-    "Inspiratie/Inspiratie.canvas",
     "Pasted image 20260218141330.jpg",
     "Pasted image 20260218141346.jpg",
     "Inspiratie/Inspiratie.md",

@@ -1,1 +1,0 @@
-[Inspiratie](Inspiratie.canvas)
